@@ -20,11 +20,12 @@
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Go, Python, JavaScript, TypeScript, SQL |
-| **Backend** | Go, Fiber, REST API, JWT, bcrypt |
+| **Languages** | Go, Python, JavaScript, SQL |
+| **Frontend** | React, HTML, CSS |
+| **Backend** | Go, Node.js, Fiber, REST API, JWT, bcrypt |
 | **Database** | PostgreSQL, MySQL, MongoDB, Redis |
 | **DevOps** | Docker, Docker Compose, Git, GitHub, Linux |
-| **AI / ML** | TensorFlow, Keras, OpenAI API, Gemini API, LLM API |
+| **AI / ML** | TensorFlow, Keras, PyTorch, OpenAI API, Gemini API |
 | **Tools** | VS Code, Postman, Swagger, Insomnia |
 
 ---
@@ -34,74 +35,75 @@
 ### Backend & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=redis" />
+<img src="https://skillicons.dev/icons?i=go,nodejs,postgres,mysql,mongodb,redis" />
 </p>
 
 ### AI / ML Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 </p>
 
 ### Tools & Utilities
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### CV Matching AI
+## 🚀 Featured Projects
 
-AI-powered candidate evaluation system.
+### 🤖 CV Matching AI
 
-- Multi-Candidate CV Analysis  
-- GitHub Repository Intelligence  
-- LLM-Based Candidate Evaluation  
-- PostgreSQL Persistence  
-- Dockerized Backend Application  
+AI-powered recruitment platform.
 
-**Tech:** Go, Fiber, PostgreSQL, Docker, LLM API
+✅ Multi Candidate Analysis
 
----
+✅ GitHub Repository Intelligence
 
-### DeepGestic
+✅ LLM Evaluation
 
-Edge AI Gesture Recognition Platform.
+✅ PostgreSQL Persistence
 
-- Real-time Gesture Detection  
-- Deep Learning Model with TensorFlow/Keras  
-- High-Performance Go Backend  
-- Event Streaming Pipeline  
-- Dockerized and Scalable Architecture  
+✅ Dockerized Architecture
 
-**Tech:** Python, OpenCV, TensorFlow, Keras, Go, Docker
+**Stack**
+
+`Go` `Fiber` `Docker` `PostgreSQL` `OpenAI`
 
 ---
 
-## 📊 GitHub Stats
+### 🖐️ DeepGestic
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SerhatErbil&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerhatErbil&layout=compact&theme=tokyonight" height="165" />
-</p>
+Edge AI & High-Performance Event Streaming Pipeline.
+
+✅ Custom Hand Gesture Dataset  
+✅ Real-time Gesture Recognition  
+✅ Deep Learning Model with TensorFlow / Keras  
+✅ High-Performance Go Backend  
+✅ PostgreSQL Event Storage  
+✅ Dockerized Architecture  
+
+**Stack**
+
+`Python` `OpenCV` `TensorFlow` `Keras` `Go` `Fiber` `PostgreSQL` `Docker`
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SerhatErbil&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
