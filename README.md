@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋 I'm Serhat Erbil</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Engineer;AI+Developer;Building+Intelligent+Software;Always+Learning+New+Technologies" />
+</p>
 
 <p align="center">
-  Backend Developer & AI Enthusiast from Türkiye 🇹🇷
+  Backend Engineer | AI Developer
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Mathematics & Computer Science Student  
-- 💻 Backend Developer focused on **Golang**
-- 🤖 Interested in **AI, LLM Applications and Backend Systems**
-- 🐳 Building projects with **Docker, PostgreSQL and REST APIs**
-- 🌱 Currently building **DeepGestic**
+- 🎓 **Mathematics & Computer Science Student**
+- 💻 **Backend Engineer** focused on **Go**
+- 🤖 Building **AI-powered applications** using **LLMs** and **modern backend architectures**
+- 🐳 Designing **scalable backend applications** with **Docker**, **PostgreSQL** and **REST APIs**
+- 🌱 Currently building **DeepGestic**, an Edge AI & High-Performance Backend project
 
 ---
 
@@ -21,7 +24,7 @@
 | Category | Technologies |
 |---|---|
 | **Languages** | Go, Python, JavaScript, SQL |
-| **Frontend** | React, HTML, CSS |
+| **Frontend** | React, TypeScript, JavaScript, HTML, CSS |
 | **Backend** | Go, Node.js, Fiber, REST API, JWT, bcrypt |
 | **Database** | PostgreSQL, MySQL, MongoDB, Redis |
 | **DevOps** | Docker, Docker Compose, Git, GitHub, Linux |
@@ -30,22 +33,19 @@
 
 ---
 
-## 📚 Languages and Libraries
+## 🛠 Languages & Technologies
 
-### Backend & Libraries
+### Backend Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=go,nodejs,postgres,mysql,mongodb,redis" />
 </p>
 
-### AI / ML Libraries
+### AI / ML
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="48" />
 </p>
 
 ### Tools & Utilities
@@ -62,13 +62,12 @@
 
 ---
 
-## 🚀 Featured Projects
 
 ## 🚀 Featured Projects
 
 ### 🤖 CV Matching AI
 
-AI-powered recruitment platform.
+AI-powered recruitment platform for automated candidate evaluation.
 
 ✅ Multi Candidate Analysis
 
@@ -82,7 +81,7 @@ AI-powered recruitment platform.
 
 **Stack**
 
-`Go` `Fiber` `Docker` `PostgreSQL` `OpenAI`
+`Go` `Fiber` `Docker` `PostgreSQL` `Llama`
 
 ---
 
@@ -95,7 +94,7 @@ Edge AI & High-Performance Event Streaming Pipeline.
 ✅ Deep Learning Model with TensorFlow / Keras  
 ✅ High-Performance Go Backend  
 ✅ PostgreSQL Event Storage  
-✅ Dockerized Architecture  
+✅  Dockerized & Scalable Architecture
 
 **Stack**
 
@@ -107,7 +106,7 @@ Edge AI & High-Performance Event Streaming Pipeline.
 
 ## 📫 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/serhat-erbil-418182236/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
@@ -115,6 +114,15 @@ Edge AI & High-Performance Event Streaming Pipeline.
 
 ---
 
+## 🎯 Current Focus
+
+- Backend Engineering
+- Artificial Intelligence
+- Machine Learning
+- High-Performance Backend Systems
+
+---
+
 <p align="center">
-  <i>"Turning Backend Engineering and AI into real-world products."</i>
+  <i>"Building intelligent software through Backend Engineering and AI."</i>
 </p>
