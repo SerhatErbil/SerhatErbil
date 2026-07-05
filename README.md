@@ -15,7 +15,7 @@
 - 💻 **Backend Engineer** focused on **Go**
 - 🤖 Building **AI-powered applications** using **LLMs** and **modern backend architectures**
 - 🐳 Designing **scalable backend applications** with **Docker**, **PostgreSQL** and **REST APIs**
-- 🌱 Currently building **DeepGestic**, an Edge AI & High-Performance Backend project
+- 🌱 Currently building **IntiVision**, an Edge AI & High-Performance Backend project
 
 ---
 
@@ -85,7 +85,7 @@ AI-powered recruitment platform for automated candidate evaluation.
 
 ---
 
-### 🖐️ DeepGestic
+### 🖐️ IntiVision
 
 Edge AI & High-Performance Event Streaming Pipeline.
 
